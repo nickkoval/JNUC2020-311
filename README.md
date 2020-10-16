@@ -7,4 +7,4 @@ Scripts are used by Jamf Pro admins for many purposes, but Jamf Pro admins donâ€
 Helpful links for this JNUC2020 session can be found on the Wiki - https://github.com/nickkoval/JNUC2020-311/wiki
 
 # Link to presentation
-Not yet available
+https://www.youtube.com/watch?v=0HbI95gFeDo
